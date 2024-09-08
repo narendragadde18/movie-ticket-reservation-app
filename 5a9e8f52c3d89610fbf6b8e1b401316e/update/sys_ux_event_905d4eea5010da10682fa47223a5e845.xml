@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_event">
+    <sys_ux_event action="INSERT_OR_UPDATE">
+        <description/>
+        <event_name>POPULAR_ARTICLES</event_name>
+        <explicit_api_name/>
+        <interfaces/>
+        <label>Popular articles</label>
+        <props>[
+    {
+        "fieldType": "string",
+        "interfaceApiName": null,
+        "label": "Sys ID",
+        "mandatory": false,
+        "name": "sysId",
+        "readOnly": false,
+        "typeMetadata": null
+    },
+    {
+        "fieldType": "string",
+        "interfaceApiName": null,
+        "label": "Table",
+        "mandatory": false,
+        "name": "table",
+        "readOnly": false,
+        "typeMetadata": null
+    }
+]</props>
+        <required_translations>[ {
+  "message" : "Sys ID",
+  "comment" : ""
+}, {
+  "message" : "Table",
+  "comment" : ""
+} ]</required_translations>
+        <schema_version>1.0.0</schema_version>
+        <sys_class_name>sys_ux_event</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-08-31 15:36:50</sys_created_on>
+        <sys_id>905d4eea5010da10682fa47223a5e845</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Popular articles</sys_name>
+        <sys_package display_value="Movie Ticket Reservation App" source="x_1509691_movie_0">5a9e8f52c3d89610fbf6b8e1b401316e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Movie Ticket Reservation App">5a9e8f52c3d89610fbf6b8e1b401316e</sys_scope>
+        <sys_update_name>sys_ux_event_905d4eea5010da10682fa47223a5e845</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-31 15:46:25</sys_updated_on>
+    </sys_ux_event>
+    <sys_translated_text action="delete_multiple" query="documentkey=905d4eea5010da10682fa47223a5e845"/>
+</record_update>

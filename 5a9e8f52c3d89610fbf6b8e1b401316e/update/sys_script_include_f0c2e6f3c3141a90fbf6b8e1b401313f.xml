@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_1509691_movie_0.GetAvailableSeats</api_name>
+        <caller_access/>
+        <client_callable>true</client_callable>
+        <description>This script include returns the available seats for the movie screening in the theater</description>
+        <name>GetAvailableSeats</name>
+        <script><![CDATA[var GetAvailableSeats = Class.create();
+GetAvailableSeats.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
+    getAvailableSeats: function() {
+        try {
+            var availableSeats = [];
+            var seatType = new GlideRecord("x_1509691_movie_0_seats_configuration");
+            seatType.addQuery("theater", this.getParameter("sysparm_theater"));
+            seatType.addQuery("seat_type", this.getParameter("sysparm_seat_type"));
+            seatType.query();
+            if (seatType.next()) {
+                var startSeatNumber = Number(seatType.start_seat_number);
+                var endSeatNumber = Number(seatType.end_seat_number);
+                for (var i = startSeatNumber; i <= endSeatNumber; i++) {
+                    availableSeats.push(i);
+                }
+            }
+            var booking = new GlideRecord("x_1509691_movie_0_booking");
+            booking.addQuery("theater", this.getParameter("sysparm_theater"));
+            booking.addQuery("movie", this.getParameter("sysparm_movie"));
+            booking.addQuery("date", this.getParameter("sysparm_date"));
+            booking.addQuery("time", this.getParameter("sysparm_time"));
+            booking.query();
+            while (booking.next()) {
+                var index = availableSeats.indexOf(JSON.parse(booking.seat_number));
+                if (index != -1)
+                    availableSeats.splice(index, 1);
+            }
+        } catch (err) {
+            gs.error(err);
+        }
+        return JSON.stringify(availableSeats);
+
+    },
+    type: 'GetAvailableSeats'
+});]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-04 14:37:28</sys_created_on>
+        <sys_id>f0c2e6f3c3141a90fbf6b8e1b401313f</sys_id>
+        <sys_mod_count>27</sys_mod_count>
+        <sys_name>GetAvailableSeats</sys_name>
+        <sys_package display_value="Movie Ticket Reservation App" source="x_1509691_movie_0">5a9e8f52c3d89610fbf6b8e1b401316e</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Movie Ticket Reservation App">5a9e8f52c3d89610fbf6b8e1b401316e</sys_scope>
+        <sys_update_name>sys_script_include_f0c2e6f3c3141a90fbf6b8e1b401313f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-06 06:14:31</sys_updated_on>
+    </sys_script_include>
+</record_update>

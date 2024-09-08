@@ -4,7 +4,7 @@
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
         <element label="start seat number" max_length="40" name="start_seat_number" type="integer"/>
         <element label="end seat number" max_length="40" name="end_seat_number" type="integer"/>
-        <element label="seat type" mandatory="true" max_length="32" name="seat_type" reference="x_1509691_movie_0_seat_type" type="reference"/>
+        <element label="Seat Type" mandatory="true" max_length="32" name="seat_type" reference="x_1509691_movie_0_seat_type" type="reference"/>
         <element label="theater" mandatory="true" max_length="32" name="theater" reference="x_1509691_movie_0_theater" type="reference"/>
         <index name="index">
             <element name="seat_type"/>

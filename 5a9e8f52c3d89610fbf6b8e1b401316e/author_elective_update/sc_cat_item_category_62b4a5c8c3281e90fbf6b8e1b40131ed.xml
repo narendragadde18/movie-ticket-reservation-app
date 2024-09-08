@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Reserve Ticket">65a29ceac3941a10fbf6b8e1b4013199</sc_cat_item>
+        <sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-05 04:30:18</sys_created_on>
+        <sys_id>62b4a5c8c3281e90fbf6b8e1b40131ed</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.Reserve Ticket</sys_name>
+        <sys_package display_value="Movie Ticket Reservation App" source="x_1509691_movie_0">5a9e8f52c3d89610fbf6b8e1b401316e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Movie Ticket Reservation App">5a9e8f52c3d89610fbf6b8e1b401316e</sys_scope>
+        <sys_update_name>sc_cat_item_category_62b4a5c8c3281e90fbf6b8e1b40131ed</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-05 04:30:18</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Movie Ticket Reservation App">5a9e8f52c3d89610fbf6b8e1b401316e</application>
+        <file_path/>
+        <instance_id>a8bb0610ff7b8218c812f8e4fc4fd9e9</instance_id>
+        <instance_name>dev283919</instance_name>
+        <name>sc_cat_item_category_62b4a5c8c3281e90fbf6b8e1b40131ed</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Reserve Ticket">65a29ceac3941a10fbf6b8e1b4013199</sc_cat_item><sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-05 04:30:18</sys_created_on><sys_id>62b4a5c8c3281e90fbf6b8e1b40131ed</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Can We Help You?.Reserve Ticket</sys_name><sys_package display_value="Movie Ticket Reservation App" source="x_1509691_movie_0">5a9e8f52c3d89610fbf6b8e1b401316e</sys_package><sys_policy/><sys_scope display_value="Movie Ticket Reservation App">5a9e8f52c3d89610fbf6b8e1b401316e</sys_scope><sys_update_name>sc_cat_item_category_62b4a5c8c3281e90fbf6b8e1b40131ed</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-05 04:30:18</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-915210410</payload_hash>
+        <record_name>Can We Help You?.Reserve Ticket</record_name>
+        <reverted_from/>
+        <source>51695716c3dc9610fbf6b8e1b40131a2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-05 04:30:18</sys_created_on>
+        <sys_id>aab4294cc3281e90fbf6b8e1b40131ca</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>191c0728dd70000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-05 04:30:18</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>2eb4294c6f281e901c1483a1e90099c9</update_guid>
+        <update_guid_history>2eb4294c6f281e901c1483a1e90099c9:-915210410</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Can We Help You?.Reserve Ticket">c278290cc3a81e90fbf6b8e1b4013155</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-05 04:46:40</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>5565baf89c74415fb8418939ac97cfd9</sys_id>
+        <sys_metadata>62b4a5c8c3281e90fbf6b8e1b40131ed</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.Reserve Ticket</sys_name>
+        <sys_package display_value="Movie Ticket Reservation App" source="x_1509691_movie_0">5a9e8f52c3d89610fbf6b8e1b401316e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Movie Ticket Reservation App">5a9e8f52c3d89610fbf6b8e1b401316e</sys_scope>
+        <sys_scope_delete display_value="">1bc6adae8cbe4d0488850da981e2f790</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_62b4a5c8c3281e90fbf6b8e1b40131ed</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_62b4a5c8c3281e90fbf6b8e1b40131ed">aab4294cc3281e90fbf6b8e1b40131ca</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-05 04:46:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

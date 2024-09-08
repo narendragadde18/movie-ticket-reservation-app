@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <api_name>x_1509691_movie_0.GetReleaseDate</api_name>
+        <caller_access/>
+        <client_callable>true</client_callable>
+        <description/>
+        <name>GetReleaseDate</name>
+        <script><![CDATA[var GetReleaseDate = Class.create();
+GetReleaseDate.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
+    getReleaseDate: function() {
+        var movieRecord = new GlideRecord("x_1509691_movie_0_movie");
+		movieRecord.addQuery('sys_id',this.getParameter('sysparm_movie_name'));
+        movieRecord.query();
+        if (movieRecord.next()) {
+			return movieRecord.release_date.toString();
+		}
+        return "";
+    },
+    type: 'GetReleaseDate'
+});]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-06 06:50:00</sys_created_on>
+        <sys_id>027d0314c32c16d0fbf6b8e1b401311b</sys_id>
+        <sys_mod_count>12</sys_mod_count>
+        <sys_name>GetReleaseDate</sys_name>
+        <sys_package display_value="Movie Ticket Reservation App" source="x_1509691_movie_0">5a9e8f52c3d89610fbf6b8e1b401316e</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Movie Ticket Reservation App">5a9e8f52c3d89610fbf6b8e1b401316e</sys_scope>
+        <sys_update_name>sys_script_include_027d0314c32c16d0fbf6b8e1b401311b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-06 07:25:32</sys_updated_on>
+    </sys_script_include>
+</record_update>

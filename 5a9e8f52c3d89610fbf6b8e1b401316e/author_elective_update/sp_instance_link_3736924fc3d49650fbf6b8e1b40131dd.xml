@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_link">
+    <sp_instance_link action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>info</color>
+        <css/>
+        <glyph>plus-circle</glyph>
+        <id/>
+        <kb_article/>
+        <kb_category/>
+        <kb_topic/>
+        <order>1</order>
+        <roles/>
+        <sc_cat_item/>
+        <sc_category/>
+        <short_description>Please click here to add new movie</short_description>
+        <size>md</size>
+        <sp_column display_value="2">3e669acbc3d49650fbf6b8e1b401315b</sp_column>
+        <sp_page/>
+        <sp_widget display_value="Icon Link">3caa67afcb13020000f8d856634c9c2e</sp_widget>
+        <sys_class_name>sp_instance_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-02 05:32:44</sys_created_on>
+        <sys_id>3736924fc3d49650fbf6b8e1b40131dd</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Movie</sys_name>
+        <sys_package display_value="Movie Ticket Reservation App" source="x_1509691_movie_0">5a9e8f52c3d89610fbf6b8e1b401316e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Movie Ticket Reservation App">5a9e8f52c3d89610fbf6b8e1b401316e</sys_scope>
+        <sys_update_name>sp_instance_link_3736924fc3d49650fbf6b8e1b40131dd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-02 10:15:44</sys_updated_on>
+        <title>Movie</title>
+        <type>url</type>
+        <url>https://dev283919.service-now.com/com.glideapp.servicecatalog_cat_item_view.do?sysparm_id=381bd8eac3181a10fbf6b8e1b401316c&amp;v=1</url>
+        <widget_parameters><![CDATA[{
+	"link_template": {
+		"value": "Top Icon",
+		"displayValue": "Top Icon"
+	}
+}]]></widget_parameters>
+    </sp_instance_link>
+    <sys_translated_text action="DELETE" query="documentkey=3736924fc3d49650fbf6b8e1b40131dd"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Movie Ticket Reservation App">5a9e8f52c3d89610fbf6b8e1b401316e</application>
+        <file_path/>
+        <instance_id>a8bb0610ff7b8218c812f8e4fc4fd9e9</instance_id>
+        <instance_name>dev283919</instance_name>
+        <name>sp_instance_link_3736924fc3d49650fbf6b8e1b40131dd</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance_link"&gt;&lt;sp_instance_link action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;info&lt;/color&gt;&lt;css/&gt;&lt;glyph&gt;plus-circle&lt;/glyph&gt;&lt;id/&gt;&lt;kb_article/&gt;&lt;kb_category/&gt;&lt;kb_topic/&gt;&lt;order&gt;1&lt;/order&gt;&lt;roles/&gt;&lt;sc_cat_item/&gt;&lt;sc_category/&gt;&lt;short_description&gt;Please click here to add new movie&lt;/short_description&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="2"&gt;3e669acbc3d49650fbf6b8e1b401315b&lt;/sp_column&gt;&lt;sp_page/&gt;&lt;sp_widget display_value="Icon Link"&gt;3caa67afcb13020000f8d856634c9c2e&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance_link&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-09-02 05:32:44&lt;/sys_created_on&gt;&lt;sys_id&gt;3736924fc3d49650fbf6b8e1b40131dd&lt;/sys_id&gt;&lt;sys_mod_count&gt;5&lt;/sys_mod_count&gt;&lt;sys_name&gt;Movie&lt;/sys_name&gt;&lt;sys_package display_value="Movie Ticket Reservation App" source="x_1509691_movie_0"&gt;5a9e8f52c3d89610fbf6b8e1b401316e&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Movie Ticket Reservation App"&gt;5a9e8f52c3d89610fbf6b8e1b401316e&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_link_3736924fc3d49650fbf6b8e1b40131dd&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-09-02 10:15:44&lt;/sys_updated_on&gt;&lt;title&gt;Movie&lt;/title&gt;&lt;type&gt;url&lt;/type&gt;&lt;url&gt;https://dev283919.service-now.com/com.glideapp.servicecatalog_cat_item_view.do?sysparm_id=381bd8eac3181a10fbf6b8e1b401316c&amp;amp;v=1&lt;/url&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"link_template": {
+		"value": "Top Icon",
+		"displayValue": "Top Icon"
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance_link&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=3736924fc3d49650fbf6b8e1b40131dd"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>1696103317</payload_hash>
+        <record_name>Movie</record_name>
+        <reverted_from/>
+        <source>51695716c3dc9610fbf6b8e1b40131a2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-02 10:15:44</sys_created_on>
+        <sys_id>5107578fc31cd650fbf6b8e1b4013192</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>191b23bb9eb0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-02 10:15:44</sys_updated_on>
+        <type>Instance with Link</type>
+        <update_guid>d507578f741cd650fd2233f284b17d91</update_guid>
+        <update_guid_history>d507578f741cd650fd2233f284b17d91:1696103317,a3b9564f4618965052b75e5940c21211:839963421,cb99124bf7189650cd2354ac003dc41f:669072275,ea07d647851896503e39e49abe081596:399101691,73561603431896506bd69b90fbed9501:-424612229,f336924f3ad49650b072e01af3a412df:1484311317</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Movie">a35db7d4c36c56d0fbf6b8e1b401318f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-06 10:15:41</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance_link">sp_instance_link</sys_db_object>
+        <sys_id>0ea7175f83d54b2e820ece7c5505e9c4</sys_id>
+        <sys_metadata>3736924fc3d49650fbf6b8e1b40131dd</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Movie</sys_name>
+        <sys_package display_value="Movie Ticket Reservation App" source="x_1509691_movie_0">5a9e8f52c3d89610fbf6b8e1b401316e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Movie Ticket Reservation App">5a9e8f52c3d89610fbf6b8e1b401316e</sys_scope>
+        <sys_scope_delete display_value="">1bc6adae8cbe4d0488850da981e2f790</sys_scope_delete>
+        <sys_update_name>sp_instance_link_3736924fc3d49650fbf6b8e1b40131dd</sys_update_name>
+        <sys_update_version display_value="sp_instance_link_3736924fc3d49650fbf6b8e1b40131dd">5107578fc31cd650fbf6b8e1b4013192</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-06 10:15:41</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

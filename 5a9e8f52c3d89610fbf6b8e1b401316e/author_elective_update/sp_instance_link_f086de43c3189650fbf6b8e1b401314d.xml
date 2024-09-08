@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_link">
+    <sp_instance_link action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>warning</color>
+        <css/>
+        <glyph>cog</glyph>
+        <id/>
+        <kb_article/>
+        <kb_category/>
+        <kb_topic/>
+        <order>1</order>
+        <roles/>
+        <sc_cat_item/>
+        <sc_category/>
+        <short_description>Configure Theater Details</short_description>
+        <size>md</size>
+        <sp_column display_value="2">b247db8fc31cd650fbf6b8e1b401318a</sp_column>
+        <sp_page/>
+        <sp_widget display_value="Icon Link">3caa67afcb13020000f8d856634c9c2e</sp_widget>
+        <sys_class_name>sp_instance_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-02 05:33:54</sys_created_on>
+        <sys_id>f086de43c3189650fbf6b8e1b401314d</sys_id>
+        <sys_mod_count>13</sys_mod_count>
+        <sys_name>Theater configuration</sys_name>
+        <sys_package display_value="Movie Ticket Reservation App" source="x_1509691_movie_0">5a9e8f52c3d89610fbf6b8e1b401316e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Movie Ticket Reservation App">5a9e8f52c3d89610fbf6b8e1b401316e</sys_scope>
+        <sys_update_name>sp_instance_link_f086de43c3189650fbf6b8e1b401314d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-02 10:19:00</sys_updated_on>
+        <title>Theater configuration</title>
+        <type>url</type>
+        <url>https://dev283919.service-now.com/com.glideapp.servicecatalog_cat_item_view.do?sysparm_id=c49c9207c3989650fbf6b8e1b401318a&amp;v=1</url>
+        <widget_parameters><![CDATA[{
+	"link_template": {
+		"value": "Top Icon",
+		"displayValue": "Top Icon"
+	}
+}]]></widget_parameters>
+    </sp_instance_link>
+    <sys_translated_text action="DELETE" query="documentkey=f086de43c3189650fbf6b8e1b401314d"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Movie Ticket Reservation App">5a9e8f52c3d89610fbf6b8e1b401316e</application>
+        <file_path/>
+        <instance_id>a8bb0610ff7b8218c812f8e4fc4fd9e9</instance_id>
+        <instance_name>dev283919</instance_name>
+        <name>sp_instance_link_f086de43c3189650fbf6b8e1b401314d</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance_link"&gt;&lt;sp_instance_link action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;warning&lt;/color&gt;&lt;css/&gt;&lt;glyph&gt;cog&lt;/glyph&gt;&lt;id/&gt;&lt;kb_article/&gt;&lt;kb_category/&gt;&lt;kb_topic/&gt;&lt;order&gt;1&lt;/order&gt;&lt;roles/&gt;&lt;sc_cat_item/&gt;&lt;sc_category/&gt;&lt;short_description&gt;Configure Theater Details&lt;/short_description&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="2"&gt;b247db8fc31cd650fbf6b8e1b401318a&lt;/sp_column&gt;&lt;sp_page/&gt;&lt;sp_widget display_value="Icon Link"&gt;3caa67afcb13020000f8d856634c9c2e&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance_link&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-09-02 05:33:54&lt;/sys_created_on&gt;&lt;sys_id&gt;f086de43c3189650fbf6b8e1b401314d&lt;/sys_id&gt;&lt;sys_mod_count&gt;13&lt;/sys_mod_count&gt;&lt;sys_name&gt;Theater configuration&lt;/sys_name&gt;&lt;sys_package display_value="Movie Ticket Reservation App" source="x_1509691_movie_0"&gt;5a9e8f52c3d89610fbf6b8e1b401316e&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Movie Ticket Reservation App"&gt;5a9e8f52c3d89610fbf6b8e1b401316e&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_link_f086de43c3189650fbf6b8e1b401314d&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-09-02 10:19:00&lt;/sys_updated_on&gt;&lt;title&gt;Theater configuration&lt;/title&gt;&lt;type&gt;url&lt;/type&gt;&lt;url&gt;https://dev283919.service-now.com/com.glideapp.servicecatalog_cat_item_view.do?sysparm_id=c49c9207c3989650fbf6b8e1b401318a&amp;amp;v=1&lt;/url&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"link_template": {
+		"value": "Top Icon",
+		"displayValue": "Top Icon"
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance_link&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=f086de43c3189650fbf6b8e1b401314d"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1756557131</payload_hash>
+        <record_name>Theater configuration</record_name>
+        <reverted_from/>
+        <source>51695716c3dc9610fbf6b8e1b40131a2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-02 10:19:00</sys_created_on>
+        <sys_id>09c757cfc31cd650fbf6b8e1b40131dd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>191b23eb8980000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-02 10:19:00</sys_updated_on>
+        <type>Instance with Link</type>
+        <update_guid>8dc757cf991cd6503b015296e635dddc</update_guid>
+        <update_guid_history>8dc757cf991cd6503b015296e635dddc:-1756557131,14c757cf741cd650343248ec99ccc17a:-569711511,07b757cf8c1cd65014e67606e5864a12:1012395624,0eb717cff21cd65054249a3cc508aab6:-569711511,a347db8fca1cd650c58927e0962dcfff:1012395624,1017978f011cd650db34dff904a4227f:1471861586,97f6578f2f1cd650647c3342ebb55b18:-110245549,bdffd68f3ad89650e3068fbbbc7010e8:-1549171044,a1cfd20f34d896507765c0cdd131c3ed:702810019,8c2c9a03769896500ae9d57a233a125c:-1609839814,e7ebd64f705896500ea13b53fea599f8:-410403107,a0e6d247f61896500dba9a7053029175:-1016997304,f7c65a8f49d49650e8718ef5f513b876:-1778524766,b086de437c1896508ac18961637de74f:-355785331</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Theater configuration">12c7df8fc31cd650fbf6b8e1b40131e9</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-02 10:19:05</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance_link">sp_instance_link</sys_db_object>
+        <sys_id>0c5ac67a82be42e8856846a731cdf5d1</sys_id>
+        <sys_metadata>f086de43c3189650fbf6b8e1b401314d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Theater configuration</sys_name>
+        <sys_package display_value="Movie Ticket Reservation App" source="x_1509691_movie_0">5a9e8f52c3d89610fbf6b8e1b401316e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Movie Ticket Reservation App">5a9e8f52c3d89610fbf6b8e1b401316e</sys_scope>
+        <sys_scope_delete display_value="">1bc6adae8cbe4d0488850da981e2f790</sys_scope_delete>
+        <sys_update_name>sp_instance_link_f086de43c3189650fbf6b8e1b401314d</sys_update_name>
+        <sys_update_version display_value="sp_instance_link_f086de43c3189650fbf6b8e1b401314d">09c757cfc31cd650fbf6b8e1b40131dd</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-02 10:19:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

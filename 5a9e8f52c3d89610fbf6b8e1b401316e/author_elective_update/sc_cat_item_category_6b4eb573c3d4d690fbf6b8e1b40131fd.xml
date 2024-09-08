@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Add Movie">381bd8eac3181a10fbf6b8e1b401316c</sc_cat_item>
+        <sc_category display_value="Fulfiller">cdcd7133c3d4d690fbf6b8e1b40131cd</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-04 11:43:35</sys_created_on>
+        <sys_id>6b4eb573c3d4d690fbf6b8e1b40131fd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Fulfiller.Add Movie</sys_name>
+        <sys_package display_value="Movie Ticket Reservation App" source="x_1509691_movie_0">5a9e8f52c3d89610fbf6b8e1b401316e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Movie Ticket Reservation App">5a9e8f52c3d89610fbf6b8e1b401316e</sys_scope>
+        <sys_update_name>sc_cat_item_category_6b4eb573c3d4d690fbf6b8e1b40131fd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-04 11:43:35</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Movie Ticket Reservation App">5a9e8f52c3d89610fbf6b8e1b401316e</application>
+        <file_path/>
+        <instance_id>a8bb0610ff7b8218c812f8e4fc4fd9e9</instance_id>
+        <instance_name>dev283919</instance_name>
+        <name>sc_cat_item_category_6b4eb573c3d4d690fbf6b8e1b40131fd</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Add Movie">381bd8eac3181a10fbf6b8e1b401316c</sc_cat_item><sc_category display_value="Fulfiller">cdcd7133c3d4d690fbf6b8e1b40131cd</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-04 11:43:35</sys_created_on><sys_id>6b4eb573c3d4d690fbf6b8e1b40131fd</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Fulfiller.Add Movie</sys_name><sys_package display_value="Movie Ticket Reservation App" source="x_1509691_movie_0">5a9e8f52c3d89610fbf6b8e1b401316e</sys_package><sys_policy/><sys_scope display_value="Movie Ticket Reservation App">5a9e8f52c3d89610fbf6b8e1b401316e</sys_scope><sys_update_name>sc_cat_item_category_6b4eb573c3d4d690fbf6b8e1b40131fd</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-04 11:43:35</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-1568163382</payload_hash>
+        <record_name>Fulfiller.Add Movie</record_name>
+        <reverted_from/>
+        <source>51695716c3dc9610fbf6b8e1b40131a2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-04 11:43:35</sys_created_on>
+        <sys_id>674ef1b3c3d4d690fbf6b8e1b401312e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>191bcd8e0a20000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-04 11:43:35</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>6b4ef1b3c2d4d690e6da01e977fcac2d</update_guid>
+        <update_guid_history>6b4ef1b3c2d4d690e6da01e977fcac2d:-1568163382</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Fulfiller.Add Movie">cc4fb5f7c3d4d690fbf6b8e1b40131af</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-04 11:47:42</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>0ea3b5d27ffc40d58184df77c7263aa1</sys_id>
+        <sys_metadata>6b4eb573c3d4d690fbf6b8e1b40131fd</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Fulfiller.Add Movie</sys_name>
+        <sys_package display_value="Movie Ticket Reservation App" source="x_1509691_movie_0">5a9e8f52c3d89610fbf6b8e1b401316e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Movie Ticket Reservation App">5a9e8f52c3d89610fbf6b8e1b401316e</sys_scope>
+        <sys_scope_delete display_value="">1bc6adae8cbe4d0488850da981e2f790</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_6b4eb573c3d4d690fbf6b8e1b40131fd</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_6b4eb573c3d4d690fbf6b8e1b40131fd">674ef1b3c3d4d690fbf6b8e1b401312e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-04 11:47:42</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_1509691_movie_0.validateDateUtil</api_name>
+        <caller_access/>
+        <client_callable>true</client_callable>
+        <description>This script include is used to validate the date selected by user</description>
+        <name>validateDateUtil</name>
+        <script><![CDATA[var validateDateUtil = Class.create();
+validateDateUtil.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
+    validateDate: function() {
+        var userSelectedDate = new GlideDateTime(this.getParameter('sysparm_date'));
+		var currentDate = new GlideDateTime();
+		if(userSelectedDate < currentDate){
+			return "false";
+		}
+		return "true";
+    },
+    type: 'validateDateUtil'
+});]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-04 05:23:38</sys_created_on>
+        <sys_id>ad26a0fbc3d45690fbf6b8e1b4013143</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>validateDateUtil</sys_name>
+        <sys_package display_value="Movie Ticket Reservation App" source="x_1509691_movie_0">5a9e8f52c3d89610fbf6b8e1b401316e</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Movie Ticket Reservation App">5a9e8f52c3d89610fbf6b8e1b401316e</sys_scope>
+        <sys_update_name>sys_script_include_ad26a0fbc3d45690fbf6b8e1b4013143</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-04 06:32:13</sys_updated_on>
+    </sys_script_include>
+</record_update>

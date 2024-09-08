@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_page_uc_can_view">
+    <m2m_sp_page_uc_can_view action="INSERT_OR_UPDATE">
+        <sp_page display_value="movie_ticket">99dfd460c3a896d0fbf6b8e1b401319a</sp_page>
+        <sys_class_name>m2m_sp_page_uc_can_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-07 15:27:15</sys_created_on>
+        <sys_id>594e86b4c36c1210fbf6b8e1b40131ad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>movie_ticket.Users with 'Theater Owner' Role</sys_name>
+        <sys_package display_value="Movie Ticket Reservation App" source="x_1509691_movie_0">5a9e8f52c3d89610fbf6b8e1b401316e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Movie Ticket Reservation App">5a9e8f52c3d89610fbf6b8e1b401316e</sys_scope>
+        <sys_update_name>m2m_sp_page_uc_can_view_594e86b4c36c1210fbf6b8e1b40131ad</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-07 15:27:15</sys_updated_on>
+        <user_criteria display_value="Users with 'Theater Owner' Role">e9327144c3ec1e90fbf6b8e1b4013167</user_criteria>
+    </m2m_sp_page_uc_can_view>
+</record_update>

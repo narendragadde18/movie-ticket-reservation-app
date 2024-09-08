@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_link">
+    <sp_instance_link action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph>cog</glyph>
+        <id/>
+        <kb_article/>
+        <kb_category/>
+        <kb_topic/>
+        <order>1</order>
+        <roles/>
+        <sc_cat_item/>
+        <sc_category/>
+        <short_description>Please click here to configure movies and theaters</short_description>
+        <size>md</size>
+        <sp_column display_value="2">94de41a6c3985a10fbf6b8e1b40131b5</sp_column>
+        <sp_page display_value="404">3c2c9063cb11020000f8d856634c9c1f</sp_page>
+        <sp_widget display_value="Icon Link">3caa67afcb13020000f8d856634c9c2e</sp_widget>
+        <sys_class_name>sp_instance_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-31 11:05:07</sys_created_on>
+        <sys_id>192fc9aac3985a10fbf6b8e1b401319c</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Configure movies and theaters</sys_name>
+        <sys_package display_value="Movie Ticket Reservation App" source="x_1509691_movie_0">5a9e8f52c3d89610fbf6b8e1b401316e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Movie Ticket Reservation App">5a9e8f52c3d89610fbf6b8e1b401316e</sys_scope>
+        <sys_update_name>sp_instance_link_192fc9aac3985a10fbf6b8e1b401319c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-31 11:07:28</sys_updated_on>
+        <title>Configure movies and theaters</title>
+        <type>page</type>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"link_template": {
+		"value": "Top Icon",
+		"displayValue": "Top Icon"
+	}
+}]]></widget_parameters>
+    </sp_instance_link>
+    <sys_translated_text action="DELETE" query="documentkey=192fc9aac3985a10fbf6b8e1b401319c"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Movie Ticket Reservation App">5a9e8f52c3d89610fbf6b8e1b401316e</application>
+        <file_path/>
+        <instance_id>a8bb0610ff7b8218c812f8e4fc4fd9e9</instance_id>
+        <instance_name>dev283919</instance_name>
+        <name>sp_instance_link_192fc9aac3985a10fbf6b8e1b401319c</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance_link"&gt;&lt;sp_instance_link action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;glyph&gt;cog&lt;/glyph&gt;&lt;id/&gt;&lt;kb_article/&gt;&lt;kb_category/&gt;&lt;kb_topic/&gt;&lt;order&gt;1&lt;/order&gt;&lt;roles/&gt;&lt;sc_cat_item/&gt;&lt;sc_category/&gt;&lt;short_description&gt;Please click here to configure movies and theaters&lt;/short_description&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="2"&gt;94de41a6c3985a10fbf6b8e1b40131b5&lt;/sp_column&gt;&lt;sp_page display_value="404"&gt;3c2c9063cb11020000f8d856634c9c1f&lt;/sp_page&gt;&lt;sp_widget display_value="Icon Link"&gt;3caa67afcb13020000f8d856634c9c2e&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance_link&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-08-31 11:05:07&lt;/sys_created_on&gt;&lt;sys_id&gt;192fc9aac3985a10fbf6b8e1b401319c&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;Configure movies and theaters&lt;/sys_name&gt;&lt;sys_package display_value="Movie Ticket Reservation App" source="x_1509691_movie_0"&gt;5a9e8f52c3d89610fbf6b8e1b401316e&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Movie Ticket Reservation App"&gt;5a9e8f52c3d89610fbf6b8e1b401316e&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_link_192fc9aac3985a10fbf6b8e1b401319c&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-08-31 11:07:28&lt;/sys_updated_on&gt;&lt;title&gt;Configure movies and theaters&lt;/title&gt;&lt;type&gt;page&lt;/type&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"link_template": {
+		"value": "Top Icon",
+		"displayValue": "Top Icon"
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance_link&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=192fc9aac3985a10fbf6b8e1b401319c"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-2009339756</payload_hash>
+        <record_name>Configure movies and theaters</record_name>
+        <reverted_from/>
+        <source>51695716c3dc9610fbf6b8e1b40131a2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-31 11:07:28</sys_created_on>
+        <sys_id>2faf0da2c3985a10fbf6b8e1b401317e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>191a81e5f100000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-31 11:07:28</sys_updated_on>
+        <type>Instance with Link</type>
+        <update_guid>a3af0da235985a10c50178e9619cf27e</update_guid>
+        <update_guid_history>a3af0da235985a10c50178e9619cf27e:-2009339756,9d2fc9aaaf985a1064f4a60816e0049e:1126997738</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Configure movies and theaters">293df394c36c56d0fbf6b8e1b401310f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-06 10:15:00</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance_link">sp_instance_link</sys_db_object>
+        <sys_id>43a374a35f114910b1a1db8013187990</sys_id>
+        <sys_metadata>192fc9aac3985a10fbf6b8e1b401319c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Configure movies and theaters</sys_name>
+        <sys_package display_value="Movie Ticket Reservation App" source="x_1509691_movie_0">5a9e8f52c3d89610fbf6b8e1b401316e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Movie Ticket Reservation App">5a9e8f52c3d89610fbf6b8e1b401316e</sys_scope>
+        <sys_scope_delete display_value="">1bc6adae8cbe4d0488850da981e2f790</sys_scope_delete>
+        <sys_update_name>sp_instance_link_192fc9aac3985a10fbf6b8e1b401319c</sys_update_name>
+        <sys_update_version display_value="sp_instance_link_192fc9aac3985a10fbf6b8e1b401319c">2faf0da2c3985a10fbf6b8e1b401317e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-06 10:15:00</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

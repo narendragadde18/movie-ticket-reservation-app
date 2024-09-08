@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_catalog">
+    <sc_catalog action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>This is used for reserving the tickets</description>
+        <desktop_continue_shopping/>
+        <desktop_home_page/>
+        <desktop_image/>
+        <editors/>
+        <enable_wish_list>false</enable_wish_list>
+        <manager display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</manager>
+        <sys_class_name>sc_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-31 06:44:25</sys_created_on>
+        <sys_id>0343506ec3941a10fbf6b8e1b40131c0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Movie Ticket Reservation</sys_name>
+        <sys_package display_value="Movie Ticket Reservation App" source="x_1509691_movie_0">5a9e8f52c3d89610fbf6b8e1b401316e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Movie Ticket Reservation App">5a9e8f52c3d89610fbf6b8e1b401316e</sys_scope>
+        <sys_update_name>sc_catalog_0343506ec3941a10fbf6b8e1b40131c0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-31 06:44:25</sys_updated_on>
+        <title>Movie Ticket Reservation</title>
+    </sc_catalog>
+    <sys_translated_text action="delete_multiple" query="documentkey=0343506ec3941a10fbf6b8e1b40131c0"/>
+</record_update>

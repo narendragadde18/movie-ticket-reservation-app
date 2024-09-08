@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
+    <sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Theater Configuration">2836d067c314de50fbf6b8e1b401313f</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-06 04:38:18</sys_created_on>
+        <sys_id>55203254c36016d0fbf6b8e1b40131e5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Theater Configuration.Users with 'Theater Owner' Role</sys_name>
+        <sys_package display_value="Movie Ticket Reservation App" source="x_1509691_movie_0">5a9e8f52c3d89610fbf6b8e1b401316e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Movie Ticket Reservation App">5a9e8f52c3d89610fbf6b8e1b401316e</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_55203254c36016d0fbf6b8e1b40131e5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-06 04:38:18</sys_updated_on>
+        <user_criteria display_value="Users with 'Theater Owner' Role">e9327144c3ec1e90fbf6b8e1b4013167</user_criteria>
+    </sc_cat_item_user_criteria_mtom>
+</record_update>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_instance_uc_can_view">
+    <m2m_sp_instance_uc_can_view action="DELETE">
+        <sp_instance display_value="Reserve Ticket">a828bf18c3e856d0fbf6b8e1b4013176</sp_instance>
+        <sys_class_name>m2m_sp_instance_uc_can_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-06 10:48:20</sys_created_on>
+        <sys_id>b5d488e8c3ec56d0fbf6b8e1b4013156</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Reserve Ticket.Users with 'Admin' Role</sys_name>
+        <sys_package display_value="Movie Ticket Reservation App" source="x_1509691_movie_0">5a9e8f52c3d89610fbf6b8e1b401316e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Movie Ticket Reservation App">5a9e8f52c3d89610fbf6b8e1b401316e</sys_scope>
+        <sys_update_name>m2m_sp_instance_uc_can_view_b5d488e8c3ec56d0fbf6b8e1b4013156</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-06 10:48:20</sys_updated_on>
+        <user_criteria display_value="Users with 'Admin' Role">cb8e06e9d7103100f2d224837e610339</user_criteria>
+    </m2m_sp_instance_uc_can_view>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Movie Ticket Reservation App">5a9e8f52c3d89610fbf6b8e1b401316e</application>
+        <file_path/>
+        <instance_id>a8bb0610ff7b8218c812f8e4fc4fd9e9</instance_id>
+        <instance_name>dev283919</instance_name>
+        <name>m2m_sp_instance_uc_can_view_b5d488e8c3ec56d0fbf6b8e1b4013156</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_instance_uc_can_view"><m2m_sp_instance_uc_can_view action="INSERT_OR_UPDATE"><sp_instance display_value="Reserve Ticket">a828bf18c3e856d0fbf6b8e1b4013176</sp_instance><sys_class_name>m2m_sp_instance_uc_can_view</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-06 10:48:20</sys_created_on><sys_id>b5d488e8c3ec56d0fbf6b8e1b4013156</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Reserve Ticket.Users with 'Admin' Role</sys_name><sys_package display_value="Movie Ticket Reservation App" source="x_1509691_movie_0">5a9e8f52c3d89610fbf6b8e1b401316e</sys_package><sys_policy/><sys_scope display_value="Movie Ticket Reservation App">5a9e8f52c3d89610fbf6b8e1b401316e</sys_scope><sys_update_name>m2m_sp_instance_uc_can_view_b5d488e8c3ec56d0fbf6b8e1b4013156</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-06 10:48:20</sys_updated_on><user_criteria display_value="Users with 'Admin' Role">cb8e06e9d7103100f2d224837e610339</user_criteria></m2m_sp_instance_uc_can_view></record_update>]]></payload>
+        <payload_hash>845272916</payload_hash>
+        <record_name>Reserve Ticket.Users with 'Admin' Role</record_name>
+        <reverted_from/>
+        <source>51695716c3dc9610fbf6b8e1b40131a2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-06 10:48:20</sys_created_on>
+        <sys_id>79d488e8c3ec56d0fbf6b8e1b4013158</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>191c6f304150000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-06 10:48:20</sys_updated_on>
+        <type>Who Can View Instance</type>
+        <update_guid>7dd488e88cec56d0392ee8d49b509e57</update_guid>
+        <update_guid_history>7dd488e88cec56d0392ee8d49b509e57:845272916</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Reserve Ticket.Users with 'Admin' Role">ade40ce8c3ec56d0fbf6b8e1b4013163</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-06 10:48:35</sys_created_on>
+        <sys_db_object display_value="" name="m2m_sp_instance_uc_can_view">m2m_sp_instance_uc_can_view</sys_db_object>
+        <sys_id>1b9fdbbe6bad4172af3809bf23fad599</sys_id>
+        <sys_metadata>b5d488e8c3ec56d0fbf6b8e1b4013156</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Reserve Ticket.Users with 'Admin' Role</sys_name>
+        <sys_package display_value="Movie Ticket Reservation App" source="x_1509691_movie_0">5a9e8f52c3d89610fbf6b8e1b401316e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Movie Ticket Reservation App">5a9e8f52c3d89610fbf6b8e1b401316e</sys_scope>
+        <sys_scope_delete display_value="">1bc6adae8cbe4d0488850da981e2f790</sys_scope_delete>
+        <sys_update_name>m2m_sp_instance_uc_can_view_b5d488e8c3ec56d0fbf6b8e1b4013156</sys_update_name>
+        <sys_update_version display_value="m2m_sp_instance_uc_can_view_b5d488e8c3ec56d0fbf6b8e1b4013156">79d488e8c3ec56d0fbf6b8e1b4013158</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-06 10:48:35</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

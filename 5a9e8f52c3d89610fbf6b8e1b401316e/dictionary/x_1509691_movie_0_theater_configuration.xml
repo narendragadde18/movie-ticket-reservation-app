@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="9545dc23c314de50fbf6b8e1b40131ac" label="Theater Configuration" max_length="40" name="x_1509691_movie_0_theater_configuration" type="collection">
+        <element label="Time" max_length="40" name="time" type="string"/>
+        <element label="Seat Type" mandatory="true" max_length="32" name="seat_type" reference="x_1509691_movie_0_seat_type" type="reference"/>
+        <element label="Date" mandatory="true" max_length="40" name="date" type="glide_date"/>
+        <element label="Price" max_length="40" name="price" type="integer"/>
+        <element label="Theater" mandatory="true" max_length="32" name="theater" reference="x_1509691_movie_0_theater" type="reference"/>
+        <element label="movie" mandatory="true" max_length="32" name="movie" reference="x_1509691_movie_0_movie" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <index name="index">
+            <element name="movie"/>
+        </index>
+        <index name="index2">
+            <element name="seat_type"/>
+        </index>
+        <index name="index3">
+            <element name="theater"/>
+        </index>
+    </element>
+</database>

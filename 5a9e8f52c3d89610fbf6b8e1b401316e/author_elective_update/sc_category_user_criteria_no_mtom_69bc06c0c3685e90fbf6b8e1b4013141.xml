@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_category_user_criteria_no_mtom">
+    <sc_category_user_criteria_no_mtom action="DELETE">
+        <sc_category display_value="User">b029ad4cc3a81e90fbf6b8e1b4013128</sc_category>
+        <sys_class_name>sc_category_user_criteria_no_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-05 07:25:00</sys_created_on>
+        <sys_id>69bc06c0c3685e90fbf6b8e1b4013141</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>User.Theater Owner</sys_name>
+        <sys_package display_value="Movie Ticket Reservation App" source="x_1509691_movie_0">5a9e8f52c3d89610fbf6b8e1b401316e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Movie Ticket Reservation App">5a9e8f52c3d89610fbf6b8e1b401316e</sys_scope>
+        <sys_update_name>sc_category_user_criteria_no_mtom_69bc06c0c3685e90fbf6b8e1b4013141</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-05 07:25:00</sys_updated_on>
+        <user_criteria display_value="Theater Owner">e9327144c3ec1e90fbf6b8e1b4013167</user_criteria>
+    </sc_category_user_criteria_no_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Movie Ticket Reservation App">5a9e8f52c3d89610fbf6b8e1b401316e</application>
+        <file_path/>
+        <instance_id>a8bb0610ff7b8218c812f8e4fc4fd9e9</instance_id>
+        <instance_name>dev283919</instance_name>
+        <name>sc_category_user_criteria_no_mtom_69bc06c0c3685e90fbf6b8e1b4013141</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_category_user_criteria_no_mtom"><sc_category_user_criteria_no_mtom action="INSERT_OR_UPDATE"><sc_category display_value="User">b029ad4cc3a81e90fbf6b8e1b4013128</sc_category><sys_class_name>sc_category_user_criteria_no_mtom</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-05 07:25:00</sys_created_on><sys_id>69bc06c0c3685e90fbf6b8e1b4013141</sys_id><sys_mod_count>0</sys_mod_count><sys_name>User.Theater Owner</sys_name><sys_package display_value="Movie Ticket Reservation App" source="x_1509691_movie_0">5a9e8f52c3d89610fbf6b8e1b401316e</sys_package><sys_policy/><sys_scope display_value="Movie Ticket Reservation App">5a9e8f52c3d89610fbf6b8e1b401316e</sys_scope><sys_update_name>sc_category_user_criteria_no_mtom_69bc06c0c3685e90fbf6b8e1b4013141</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-05 07:25:00</sys_updated_on><user_criteria display_value="Theater Owner">e9327144c3ec1e90fbf6b8e1b4013167</user_criteria></sc_category_user_criteria_no_mtom></record_update>]]></payload>
+        <payload_hash>819242811</payload_hash>
+        <record_name>User.Theater Owner</record_name>
+        <reverted_from/>
+        <source>51695716c3dc9610fbf6b8e1b40131a2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-05 07:25:00</sys_created_on>
+        <sys_id>a5bc06c0c3685e90fbf6b8e1b4013144</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>191c1127f920000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-05 07:25:00</sys_updated_on>
+        <type>Category Not Available for</type>
+        <update_guid>a9bc06c0f1685e9095818c2fe22e3743</update_guid>
+        <update_guid_history>a9bc06c0f1685e9095818c2fe22e3743:819242811</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="User.Theater Owner">f1d0aa8cc3209e90fbf6b8e1b4013153</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-05 08:52:57</sys_created_on>
+        <sys_db_object display_value="" name="sc_category_user_criteria_no_mtom">sc_category_user_criteria_no_mtom</sys_db_object>
+        <sys_id>47b572d2733444499835f67bea0c9041</sys_id>
+        <sys_metadata>69bc06c0c3685e90fbf6b8e1b4013141</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>User.Theater Owner</sys_name>
+        <sys_package display_value="Movie Ticket Reservation App" source="x_1509691_movie_0">5a9e8f52c3d89610fbf6b8e1b401316e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Movie Ticket Reservation App">5a9e8f52c3d89610fbf6b8e1b401316e</sys_scope>
+        <sys_scope_delete display_value="">1bc6adae8cbe4d0488850da981e2f790</sys_scope_delete>
+        <sys_update_name>sc_category_user_criteria_no_mtom_69bc06c0c3685e90fbf6b8e1b4013141</sys_update_name>
+        <sys_update_version display_value="sc_category_user_criteria_no_mtom_69bc06c0c3685e90fbf6b8e1b4013141">a5bc06c0c3685e90fbf6b8e1b4013144</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-05 08:52:57</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

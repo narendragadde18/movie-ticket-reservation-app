@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_1509691_movie_0.GetPriceDetails</api_name>
+        <caller_access/>
+        <client_callable>true</client_callable>
+        <description>Get the price details of the seat</description>
+        <name>GetPriceDetails</name>
+        <script><![CDATA[var GetPriceDetails = Class.create();
+GetPriceDetails.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
+	getPriceDetails : function(){
+		var movie = this.getParameter('sysparm_movie_name');
+        var theater = this.getParameter('sysparm_theater_name');
+        var date = this.getParameter('sysparm_date');
+        var time = this.getParameter('sysparm_time');
+		var seat_type = this.getParameter('sysparm_seat_type');
+        var theaterRecord = new GlideRecord("x_1509691_movie_0_theater_configuration");
+        theaterRecord.addQuery('movie', movie);
+		theaterRecord.addQuery('theater', theater);
+		theaterRecord.addQuery('date', date);
+		theaterRecord.addQuery('time', time);
+		theaterRecord.addQuery('seat_type',seat_type);
+        theaterRecord.query();
+        if (theaterRecord.next()) {
+            return theaterRecord.price.toString();
+        }
+        return "";
+	},
+    type: 'GetPriceDetails'
+});]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-06 03:50:54</sys_created_on>
+        <sys_id>8b142e10c32cd2d0fbf6b8e1b40131cb</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>GetPriceDetails</sys_name>
+        <sys_package display_value="Movie Ticket Reservation App" source="x_1509691_movie_0">5a9e8f52c3d89610fbf6b8e1b401316e</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Movie Ticket Reservation App">5a9e8f52c3d89610fbf6b8e1b401316e</sys_scope>
+        <sys_update_name>sys_script_include_8b142e10c32cd2d0fbf6b8e1b40131cb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-06 04:14:01</sys_updated_on>
+    </sys_script_include>
+</record_update>

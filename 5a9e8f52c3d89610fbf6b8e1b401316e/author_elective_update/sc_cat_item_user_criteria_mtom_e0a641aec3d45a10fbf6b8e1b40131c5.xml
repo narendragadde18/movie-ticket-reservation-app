@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
+    <sc_cat_item_user_criteria_mtom action="DELETE">
+        <sc_cat_item display_value="Add theater">b401a86ac3d81a10fbf6b8e1b4013183</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-31 10:27:57</sys_created_on>
+        <sys_id>e0a641aec3d45a10fbf6b8e1b40131c5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Add theater.Users with 'Admin' Role</sys_name>
+        <sys_package display_value="Movie Ticket Reservation App" source="x_1509691_movie_0">5a9e8f52c3d89610fbf6b8e1b401316e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Movie Ticket Reservation App">5a9e8f52c3d89610fbf6b8e1b401316e</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_e0a641aec3d45a10fbf6b8e1b40131c5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-31 10:27:57</sys_updated_on>
+        <user_criteria display_value="Users with 'Admin' Role">cb8e06e9d7103100f2d224837e610339</user_criteria>
+    </sc_cat_item_user_criteria_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Movie Ticket Reservation App">5a9e8f52c3d89610fbf6b8e1b401316e</application>
+        <file_path/>
+        <instance_id>a8bb0610ff7b8218c812f8e4fc4fd9e9</instance_id>
+        <instance_name>dev283919</instance_name>
+        <name>sc_cat_item_user_criteria_mtom_e0a641aec3d45a10fbf6b8e1b40131c5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom"><sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE"><sc_cat_item display_value="Add theater">b401a86ac3d81a10fbf6b8e1b4013183</sc_cat_item><sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-08-31 10:27:57</sys_created_on><sys_id>e0a641aec3d45a10fbf6b8e1b40131c5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Add theater.Users with 'Admin' Role</sys_name><sys_package display_value="Movie Ticket Reservation App" source="x_1509691_movie_0">5a9e8f52c3d89610fbf6b8e1b401316e</sys_package><sys_policy/><sys_scope display_value="Movie Ticket Reservation App">5a9e8f52c3d89610fbf6b8e1b401316e</sys_scope><sys_update_name>sc_cat_item_user_criteria_mtom_e0a641aec3d45a10fbf6b8e1b40131c5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-08-31 10:27:57</sys_updated_on><user_criteria display_value="Users with 'Admin' Role">cb8e06e9d7103100f2d224837e610339</user_criteria></sc_cat_item_user_criteria_mtom></record_update>]]></payload>
+        <payload_hash>282231962</payload_hash>
+        <record_name>Add theater.Users with 'Admin' Role</record_name>
+        <reverted_from/>
+        <source>51695716c3dc9610fbf6b8e1b40131a2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-31 10:27:57</sys_created_on>
+        <sys_id>2ca641aec3d45a10fbf6b8e1b40131ca</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>191a7fa30510000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-31 10:27:57</sys_updated_on>
+        <type>Catalog Item Available for</type>
+        <update_guid>2ca641ae3ad45a10e4d452bd698ad2c9</update_guid>
+        <update_guid_history>2ca641ae3ad45a10e4d452bd698ad2c9:282231962</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Add theater.Users with 'Admin' Role">e3a609aec3d45a10fbf6b8e1b40131c6</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-31 10:28:09</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_user_criteria_mtom">sc_cat_item_user_criteria_mtom</sys_db_object>
+        <sys_id>041ad73b20a844baa96b7eadad02c584</sys_id>
+        <sys_metadata>e0a641aec3d45a10fbf6b8e1b40131c5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Add theater.Users with 'Admin' Role</sys_name>
+        <sys_package display_value="Movie Ticket Reservation App" source="x_1509691_movie_0">5a9e8f52c3d89610fbf6b8e1b401316e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Movie Ticket Reservation App">5a9e8f52c3d89610fbf6b8e1b401316e</sys_scope>
+        <sys_scope_delete display_value="">1bc6adae8cbe4d0488850da981e2f790</sys_scope_delete>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_e0a641aec3d45a10fbf6b8e1b40131c5</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_user_criteria_mtom_e0a641aec3d45a10fbf6b8e1b40131c5">2ca641aec3d45a10fbf6b8e1b40131ca</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-31 10:28:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

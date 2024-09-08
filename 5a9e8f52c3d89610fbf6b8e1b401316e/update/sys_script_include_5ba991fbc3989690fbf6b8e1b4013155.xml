@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <api_name>x_1509691_movie_0.SeatTypes</api_name>
+        <caller_access/>
+        <client_callable>true</client_callable>
+        <description/>
+        <name>SeatTypes</name>
+        <script><![CDATA[var SeatTypes = Class.create();
+SeatTypes.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
+    getSeatTypes: function() {
+        var movie = this.getParameter('sysparm_movie_name');
+        var theater = this.getParameter('sysparm_theater_name');
+        var date = this.getParameter('sysparm_date');
+        var time = this.getParameter('sysparm_time');
+
+        var theaterRecord = new GlideRecord("x_1509691_movie_0_theater_configuration");
+        theaterRecord.addQuery('movie', movie);
+        theaterRecord.addQuery('theater', theater);
+        theaterRecord.addQuery('date', date);
+        theaterRecord.addQuery('time', time);
+        theaterRecord.query();
+        var seatTypes = [];
+        while (theaterRecord.next()) {
+            var seatDetails = {};
+            seatDetails.name = theaterRecord.seat_type.name.toString();
+            seatDetails.sys_id = theaterRecord.seat_type.sys_id.toString();
+            seatTypes.push(seatDetails);
+        }
+        return JSON.stringify(seatTypes);
+    },
+    getSeatTypesConfiguredForTheater: function() {
+        var theater = this.getParameter('sysparm_theater');
+        var seatsConfguration = new GlideRecord("x_1509691_movie_0_seats_configuration");
+        seatsConfguration.addQuery('theater', theater);
+        seatsConfguration.query();
+        var seatTypes = [];
+        while (seatsConfguration.next()) {
+            var seatDetails = {};
+            seatDetails.name = seatsConfguration.seat_type.name.toString();
+            seatDetails.sys_id = seatsConfguration.seat_type.sys_id.toString();
+            seatTypes.push(seatDetails);
+        }
+        return JSON.stringify(seatTypes);
+    },
+    type: 'SeatTypes'
+});]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-04 09:12:04</sys_created_on>
+        <sys_id>5ba991fbc3989690fbf6b8e1b4013155</sys_id>
+        <sys_mod_count>37</sys_mod_count>
+        <sys_name>SeatTypes</sys_name>
+        <sys_package display_value="Movie Ticket Reservation App" source="x_1509691_movie_0">5a9e8f52c3d89610fbf6b8e1b401316e</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Movie Ticket Reservation App">5a9e8f52c3d89610fbf6b8e1b401316e</sys_scope>
+        <sys_update_name>sys_script_include_5ba991fbc3989690fbf6b8e1b4013155</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-08 07:03:30</sys_updated_on>
+    </sys_script_include>
+</record_update>

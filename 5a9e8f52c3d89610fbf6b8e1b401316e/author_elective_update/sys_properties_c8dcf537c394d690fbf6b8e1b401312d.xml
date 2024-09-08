@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="DELETE">
+        <choices/>
+        <description>If true, portal css would be in rem units</description>
+        <ignore_cache>true</ignore_cache>
+        <is_private>false</is_private>
+        <name>glide.service_portal.resize_text.moviev2.enable_rem_conversion</name>
+        <read_roles/>
+        <suffix/>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-04 11:37:04</sys_created_on>
+        <sys_id>c8dcf537c394d690fbf6b8e1b401312d</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>glide.service_portal.resize_text.moviev2.enable_rem_conversion</sys_name>
+        <sys_package display_value="Movie Ticket Reservation App" source="x_1509691_movie_0">5a9e8f52c3d89610fbf6b8e1b401316e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Movie Ticket Reservation App">5a9e8f52c3d89610fbf6b8e1b401316e</sys_scope>
+        <sys_update_name>sys_properties_c8dcf537c394d690fbf6b8e1b401312d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-04 11:39:33</sys_updated_on>
+        <type>boolean</type>
+        <value>true</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="DELETE" query="documentkey=c8dcf537c394d690fbf6b8e1b401312d"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Movie Ticket Reservation App">5a9e8f52c3d89610fbf6b8e1b401316e</application>
+        <file_path/>
+        <instance_id>a8bb0610ff7b8218c812f8e4fc4fd9e9</instance_id>
+        <instance_name>dev283919</instance_name>
+        <name>sys_properties_c8dcf537c394d690fbf6b8e1b401312d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties"><sys_properties action="INSERT_OR_UPDATE"><choices/><description>If true, portal css would be in rem units</description><ignore_cache>true</ignore_cache><is_private>false</is_private><name>glide.service_portal.resize_text.moviev2.enable_rem_conversion</name><read_roles/><suffix/><sys_class_name>sys_properties</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-04 11:37:04</sys_created_on><sys_id>c8dcf537c394d690fbf6b8e1b401312d</sys_id><sys_mod_count>1</sys_mod_count><sys_name>glide.service_portal.resize_text.moviev2.enable_rem_conversion</sys_name><sys_package display_value="Movie Ticket Reservation App" source="x_1509691_movie_0">5a9e8f52c3d89610fbf6b8e1b401316e</sys_package><sys_policy/><sys_scope display_value="Movie Ticket Reservation App">5a9e8f52c3d89610fbf6b8e1b401316e</sys_scope><sys_update_name>sys_properties_c8dcf537c394d690fbf6b8e1b401312d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-04 11:39:33</sys_updated_on><type>boolean</type><value>true</value><write_roles/></sys_properties><sys_translated_text action="delete_multiple" query="documentkey=c8dcf537c394d690fbf6b8e1b401312d"/></record_update>]]></payload>
+        <payload_hash>644840096</payload_hash>
+        <record_name>glide.service_portal.resize_text.moviev2.enable_rem_conversion</record_name>
+        <reverted_from/>
+        <source>51695716c3dc9610fbf6b8e1b40131a2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-04 11:39:33</sys_created_on>
+        <sys_id>ec6d7933c3d4d690fbf6b8e1b40131c7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>191bcd52f930000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-04 11:39:33</sys_updated_on>
+        <type>System Property</type>
+        <update_guid>ac6d717bfe94d6905029889eb76376eb</update_guid>
+        <update_guid_history>ac6d717bfe94d6905029889eb76376eb:644840096,58dcf537c794d690d4db9447c235f231:-1219912096</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-04 11:47:00</sys_created_on>
+        <sys_db_object display_value="" name="sys_properties">sys_properties</sys_db_object>
+        <sys_id>6f12fa5493fb436098884998de040400</sys_id>
+        <sys_metadata>c8dcf537c394d690fbf6b8e1b401312d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>glide.service_portal.resize_text.moviev2.enable_rem_conversion</sys_name>
+        <sys_package display_value="Movie Ticket Reservation App" source="x_1509691_movie_0">5a9e8f52c3d89610fbf6b8e1b401316e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Movie Ticket Reservation App">5a9e8f52c3d89610fbf6b8e1b401316e</sys_scope>
+        <sys_scope_delete display_value="">1bc6adae8cbe4d0488850da981e2f790</sys_scope_delete>
+        <sys_update_name>sys_properties_c8dcf537c394d690fbf6b8e1b401312d</sys_update_name>
+        <sys_update_version display_value="sys_properties_c8dcf537c394d690fbf6b8e1b401312d">ec6d7933c3d4d690fbf6b8e1b40131c7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-04 11:47:00</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

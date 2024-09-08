@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-31 01:56:10</sys_created_on>
+        <sys_id>c8815b96c31c9610fbf6b8e1b401313f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1509691_movie_0_movie_theater.x_1509691_movie_0.theater_owner</sys_name>
+        <sys_package display_value="movie ticket reservation app" source="x_1509691_movie_0">5a9e8f52c3d89610fbf6b8e1b401316e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="movie ticket reservation app">5a9e8f52c3d89610fbf6b8e1b401316e</sys_scope>
+        <sys_security_acl display_value="x_1509691_movie_0_movie_theater">08815b96c31c9610fbf6b8e1b401313b</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_c8815b96c31c9610fbf6b8e1b401313f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-31 01:56:10</sys_updated_on>
+        <sys_user_role display_value="x_1509691_movie_0.theater_owner" name="x_1509691_movie_0.theater_owner">229e8f52c3d89610fbf6b8e1b40131b6</sys_user_role>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Movie Ticket Reservation App">5a9e8f52c3d89610fbf6b8e1b401316e</application>
+        <file_path/>
+        <instance_id>a8bb0610ff7b8218c812f8e4fc4fd9e9</instance_id>
+        <instance_name>dev283919</instance_name>
+        <name>sys_security_acl_role_c8815b96c31c9610fbf6b8e1b401313f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-08-31 01:56:10</sys_created_on><sys_id>c8815b96c31c9610fbf6b8e1b401313f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1509691_movie_0_movie_theater.x_1509691_movie_0.theater_owner</sys_name><sys_package display_value="movie ticket reservation app" source="x_1509691_movie_0">5a9e8f52c3d89610fbf6b8e1b401316e</sys_package><sys_policy/><sys_scope display_value="movie ticket reservation app">5a9e8f52c3d89610fbf6b8e1b401316e</sys_scope><sys_security_acl display_value="x_1509691_movie_0_movie_theater">08815b96c31c9610fbf6b8e1b401313b</sys_security_acl><sys_update_name>sys_security_acl_role_c8815b96c31c9610fbf6b8e1b401313f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-08-31 01:56:10</sys_updated_on><sys_user_role display_value="x_1509691_movie_0.theater_owner" name="x_1509691_movie_0.theater_owner">229e8f52c3d89610fbf6b8e1b40131b6</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>802323531</payload_hash>
+        <record_name>x_1509691_movie_0_movie_theater.x_1509691_movie_0.theater_owner</record_name>
+        <reverted_from/>
+        <source>2e9e8f52c3d89610fbf6b8e1b4013173</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-31 01:56:10</sys_created_on>
+        <sys_id>80815b96c31c9610fbf6b8e1b4013168</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>191a625a5d80000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-31 01:56:10</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>00815b96d61c96108ed44f96bbb35042</update_guid>
+        <update_guid_history>00815b96d61c96108ed44f96bbb35042:802323531</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_1509691_movie_0_movie_theater.x_1509691_movie_0.theater_owner">e20598afc3d0de50fbf6b8e1b4013150</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-03 09:25:11</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>760cff87658c4028a46b5c558aa52440</sys_id>
+        <sys_metadata>c8815b96c31c9610fbf6b8e1b401313f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1509691_movie_0_movie_theater.x_1509691_movie_0.theater_owner</sys_name>
+        <sys_package display_value="Movie Ticket Reservation App" source="x_1509691_movie_0">5a9e8f52c3d89610fbf6b8e1b401316e</sys_package>
+        <sys_parent display_value="">08815b96c31c9610fbf6b8e1b401313b</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Movie Ticket Reservation App">5a9e8f52c3d89610fbf6b8e1b401316e</sys_scope>
+        <sys_scope_delete display_value="">1bc6adae8cbe4d0488850da981e2f790</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_c8815b96c31c9610fbf6b8e1b401313f</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_c8815b96c31c9610fbf6b8e1b401313f">80815b96c31c9610fbf6b8e1b4013168</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-03 09:25:11</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

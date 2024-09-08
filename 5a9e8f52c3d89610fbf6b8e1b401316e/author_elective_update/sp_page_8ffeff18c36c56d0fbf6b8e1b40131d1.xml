@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_page">
+    <sp_page action="DELETE">
+        <category>other</category>
+        <css>section.page {
+	background-color: $sp-homepage-bg;
+}
+section.page, main.body {
+    padding-top: 0px !important;
+}
+</css>
+        <draft>false</draft>
+        <dynamic_title_structure/>
+        <human_readable_url_structure/>
+        <id>copy_of_index_1</id>
+        <internal>false</internal>
+        <omit_watcher>false</omit_watcher>
+        <public>false</public>
+        <roles/>
+        <seo_script/>
+        <short_description/>
+        <sys_class_name>sp_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-06 10:22:45</sys_created_on>
+        <sys_id>8ffeff18c36c56d0fbf6b8e1b40131d1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>copy_of_index_1</sys_name>
+        <sys_package display_value="Movie Ticket Reservation App" source="x_1509691_movie_0">5a9e8f52c3d89610fbf6b8e1b401316e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Movie Ticket Reservation App">5a9e8f52c3d89610fbf6b8e1b401316e</sys_scope>
+        <sys_update_name>sp_page_8ffeff18c36c56d0fbf6b8e1b40131d1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-06 10:22:45</sys_updated_on>
+        <title>Copy of Home Page (1)</title>
+        <use_seo_script>false</use_seo_script>
+    </sp_page>
+    <sys_translated_text action="DELETE" query="documentkey=8ffeff18c36c56d0fbf6b8e1b40131d1"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Movie Ticket Reservation App">5a9e8f52c3d89610fbf6b8e1b401316e</application>
+        <file_path/>
+        <instance_id>a8bb0610ff7b8218c812f8e4fc4fd9e9</instance_id>
+        <instance_name>dev283919</instance_name>
+        <name>sp_page_8ffeff18c36c56d0fbf6b8e1b40131d1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_page"><sp_page action="INSERT_OR_UPDATE"><category>other</category><css>section.page {
+	background-color: $sp-homepage-bg;
+}
+section.page, main.body {
+    padding-top: 0px !important;
+}
+</css><draft>false</draft><dynamic_title_structure/><human_readable_url_structure/><id>copy_of_index_1</id><internal>false</internal><omit_watcher>false</omit_watcher><public>false</public><roles/><seo_script/><short_description/><sys_class_name>sp_page</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-06 10:22:45</sys_created_on><sys_id>8ffeff18c36c56d0fbf6b8e1b40131d1</sys_id><sys_mod_count>0</sys_mod_count><sys_name>copy_of_index_1</sys_name><sys_package display_value="Movie Ticket Reservation App" source="x_1509691_movie_0">5a9e8f52c3d89610fbf6b8e1b401316e</sys_package><sys_policy/><sys_scope display_value="Movie Ticket Reservation App">5a9e8f52c3d89610fbf6b8e1b401316e</sys_scope><sys_update_name>sp_page_8ffeff18c36c56d0fbf6b8e1b40131d1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-06 10:22:45</sys_updated_on><title>Copy of Home Page (1)</title><use_seo_script>false</use_seo_script></sp_page><sys_translated_text action="delete_multiple" query="documentkey=8ffeff18c36c56d0fbf6b8e1b40131d1"/></record_update>]]></payload>
+        <payload_hash>-752819059</payload_hash>
+        <record_name>copy_of_index_1</record_name>
+        <reverted_from/>
+        <source>51695716c3dc9610fbf6b8e1b40131a2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-06 10:22:45</sys_created_on>
+        <sys_id>03fe7714c3ac56d0fbf6b8e1b4013101</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>191c6db97be0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-06 10:22:45</sys_updated_on>
+        <type>Page</type>
+        <update_guid>07fe77144eac56d0a226da6d29c5a700</update_guid>
+        <update_guid_history>07fe77144eac56d0a226da6d29c5a700:-752819059</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="copy_of_index_1">a94084acc3ac56d0fbf6b8e1b4013121</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-06 10:28:25</sys_created_on>
+        <sys_db_object display_value="" name="sp_page">sp_page</sys_db_object>
+        <sys_id>2e3e53a840d8475dafe91a3bd6ddc869</sys_id>
+        <sys_metadata>8ffeff18c36c56d0fbf6b8e1b40131d1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>copy_of_index_1</sys_name>
+        <sys_package display_value="Movie Ticket Reservation App" source="x_1509691_movie_0">5a9e8f52c3d89610fbf6b8e1b401316e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Movie Ticket Reservation App">5a9e8f52c3d89610fbf6b8e1b401316e</sys_scope>
+        <sys_scope_delete display_value="">1bc6adae8cbe4d0488850da981e2f790</sys_scope_delete>
+        <sys_update_name>sp_page_8ffeff18c36c56d0fbf6b8e1b40131d1</sys_update_name>
+        <sys_update_version display_value="sp_page_8ffeff18c36c56d0fbf6b8e1b40131d1">03fe7714c3ac56d0fbf6b8e1b4013101</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-06 10:28:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

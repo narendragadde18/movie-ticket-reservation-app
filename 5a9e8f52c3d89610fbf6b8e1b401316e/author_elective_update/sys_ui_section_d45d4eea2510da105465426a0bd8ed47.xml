@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="d45d4eea2510da105465426a0bd8ed47" sys_domain="global" table="sysapproval_approver" version="3" view="custom_portal_approval_x_1509691_movie_0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>0</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2024-08-31 15:36:47</sys_created_on>
+            <sys_id>985d4eea8510da100162075400b87246</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sysapproval_approver" sys_domain="global" view="d45d4eeae510da10a26ceaf2f42be446">d45d4eea2510da105465426a0bd8ed47</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2024-08-31 15:36:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sysapproval</element>
+            <position>1</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2024-08-31 15:36:47</sys_created_on>
+            <sys_id>905d4eeaf410da109ff7a9ae24765647</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sysapproval_approver" sys_domain="global" view="d45d4eeae510da10a26ceaf2f42be446">d45d4eea2510da105465426a0bd8ed47</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2024-08-31 15:36:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>sysapproval_approver</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2024-08-31 15:36:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d45d4eea2510da105465426a0bd8ed47</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sysapproval_approver</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Movie Ticket Reservation App" source="x_1509691_movie_0">5a9e8f52c3d89610fbf6b8e1b401316e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Movie Ticket Reservation App">5a9e8f52c3d89610fbf6b8e1b401316e</sys_scope>
+            <sys_update_name>sys_ui_section_d45d4eea2510da105465426a0bd8ed47</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2024-08-31 15:36:47</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Custom portal (x_1509691_movie_0)" name="custom_portal_approval_x_1509691_movie_0">d45d4eeae510da10a26ceaf2f42be446</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Movie Ticket Reservation App">5a9e8f52c3d89610fbf6b8e1b401316e</application>
+        <file_path/>
+        <instance_id>a8bb0610ff7b8218c812f8e4fc4fd9e9</instance_id>
+        <instance_name>dev283919</instance_name>
+        <name>sys_ui_section_d45d4eea2510da105465426a0bd8ed47</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="d45d4eea2510da105465426a0bd8ed47" sys_domain="global" table="sysapproval_approver" version="3" view="custom_portal_approval_x_1509691_movie_0"><sys_ui_element action="INSERT_OR_UPDATE"><element>comments</element><position>0</position><sys_created_by>system</sys_created_by><sys_created_on>2024-08-31 15:36:47</sys_created_on><sys_id>985d4eea8510da100162075400b87246</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sysapproval_approver" sys_domain="global" view="d45d4eeae510da10a26ceaf2f42be446">d45d4eea2510da105465426a0bd8ed47</sys_ui_section><sys_updated_by>system</sys_updated_by><sys_updated_on>2024-08-31 15:36:47</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>sysapproval</element><position>1</position><sys_created_by>system</sys_created_by><sys_created_on>2024-08-31 15:36:47</sys_created_on><sys_id>905d4eeaf410da109ff7a9ae24765647</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sysapproval_approver" sys_domain="global" view="d45d4eeae510da10a26ceaf2f42be446">d45d4eea2510da105465426a0bd8ed47</sys_ui_section><sys_updated_by>system</sys_updated_by><sys_updated_on>2024-08-31 15:36:47</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>sysapproval_approver</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2024-08-31 15:36:47</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>d45d4eea2510da105465426a0bd8ed47</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sysapproval_approver</sys_name><sys_overrides/><sys_package display_value="Movie Ticket Reservation App" source="x_1509691_movie_0">5a9e8f52c3d89610fbf6b8e1b401316e</sys_package><sys_policy/><sys_scope display_value="Movie Ticket Reservation App">5a9e8f52c3d89610fbf6b8e1b401316e</sys_scope><sys_update_name>sys_ui_section_d45d4eea2510da105465426a0bd8ed47</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2024-08-31 15:36:47</sys_updated_on><sys_user/><title>false</title><view display_value="Custom portal (x_1509691_movie_0)" name="custom_portal_approval_x_1509691_movie_0">d45d4eeae510da10a26ceaf2f42be446</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>519800167</payload_hash>
+        <record_name>Approval</record_name>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-02 04:17:45</sys_created_on>
+        <sys_id>dd15864fc3509650fbf6b8e1b40131cf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>191b0f3faa50000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-02 04:17:45</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>9d15864f3650965096cc8c7cf85828cf</update_guid>
+        <update_guid_history>9d15864f3650965096cc8c7cf85828cf:519800167</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-09-02 04:17:45</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>02ee59cfc9a3499c9dbf61b8cc544e90</sys_id>
+        <sys_metadata>d45d4eea2510da105465426a0bd8ed47</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sysapproval_approver</sys_name>
+        <sys_package display_value="Movie Ticket Reservation App" source="x_1509691_movie_0">5a9e8f52c3d89610fbf6b8e1b401316e</sys_package>
+        <sys_parent display_value="Sysapproval Approver">fb1ff32af8b2021008dd9cfea425ac9f</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Movie Ticket Reservation App">5a9e8f52c3d89610fbf6b8e1b401316e</sys_scope>
+        <sys_scope_delete display_value="">1bc6adae8cbe4d0488850da981e2f790</sys_scope_delete>
+        <sys_update_name>sys_ui_section_d45d4eea2510da105465426a0bd8ed47</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_d45d4eea2510da105465426a0bd8ed47">dd15864fc3509650fbf6b8e1b40131cf</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-09-02 04:17:45</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

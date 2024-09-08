@@ -10,10 +10,10 @@
 	return '';  // return the calculated value
 
 })(current);]]></calculation>
-        <choice>1</choice>
+        <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label>Seat number</column_label>
+        <column_label>Seat Number</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -32,7 +32,7 @@
         <formula/>
         <function_definition/>
         <function_field>false</function_field>
-        <internal_type display_value="Choice">choice</internal_type>
+        <internal_type display_value="Integer">integer</internal_type>
         <mandatory>true</mandatory>
         <max_length>40</max_length>
         <name>x_1509691_movie_0_booking</name>
@@ -51,14 +51,14 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-08-31 02:06:17</sys_created_on>
-        <sys_name>Seat number</sys_name>
+        <sys_created_on>2024-09-04 16:24:30</sys_created_on>
+        <sys_name>Seat Number</sys_name>
         <sys_package display_value="Movie Ticket Reservation App" source="x_1509691_movie_0">5a9e8f52c3d89610fbf6b8e1b401316e</sys_package>
         <sys_policy/>
         <sys_scope display_value="Movie Ticket Reservation App">5a9e8f52c3d89610fbf6b8e1b401316e</sys_scope>
         <sys_update_name>sys_dictionary_x_1509691_movie_0_booking_seat_number</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-08-31 02:06:17</sys_updated_on>
+        <sys_updated_on>2024-09-04 16:24:31</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
