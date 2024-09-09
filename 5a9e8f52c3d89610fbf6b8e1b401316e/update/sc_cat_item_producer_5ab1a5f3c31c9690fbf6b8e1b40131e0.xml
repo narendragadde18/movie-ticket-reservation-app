@@ -83,7 +83,7 @@
  */
 producer.portal_redirect = "?id=movie_ticket&table=x_1509691_movie_0_seats_configuration&sys_id=" + current.sys_id;
 ]]></script>
-        <short_description>This is used to configure seats in a theater</short_description>
+        <short_description>Configure seats details</short_description>
         <show_variable_help_on_load>false</show_variable_help_on_load>
         <start_closed>false</start_closed>
         <state/>
@@ -91,14 +91,14 @@ producer.portal_redirect = "?id=movie_ticket&table=x_1509691_movie_0_seats_confi
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-09-04 09:38:42</sys_created_on>
         <sys_id>5ab1a5f3c31c9690fbf6b8e1b40131e0</sys_id>
-        <sys_mod_count>38</sys_mod_count>
+        <sys_mod_count>41</sys_mod_count>
         <sys_name>Seats Configuration</sys_name>
         <sys_package display_value="Movie Ticket Reservation App" source="x_1509691_movie_0">5a9e8f52c3d89610fbf6b8e1b401316e</sys_package>
         <sys_policy/>
         <sys_scope display_value="Movie Ticket Reservation App">5a9e8f52c3d89610fbf6b8e1b401316e</sys_scope>
         <sys_update_name>sc_cat_item_producer_5ab1a5f3c31c9690fbf6b8e1b40131e0</sys_update_name>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2024-09-08 06:33:48</sys_updated_on>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-09 04:24:18</sys_updated_on>
         <table_name>x_1509691_movie_0_seats_configuration</table_name>
         <taxonomy_topic/>
         <template/>
@@ -106,7 +106,7 @@ producer.portal_redirect = "?id=movie_ticket&table=x_1509691_movie_0_seats_confi
         <type>item</type>
         <use_sc_layout>true</use_sc_layout>
         <vendor/>
-        <version>39</version>
+        <version>42</version>
         <view/>
         <visible_bundle>true</visible_bundle>
         <visible_guide>true</visible_guide>

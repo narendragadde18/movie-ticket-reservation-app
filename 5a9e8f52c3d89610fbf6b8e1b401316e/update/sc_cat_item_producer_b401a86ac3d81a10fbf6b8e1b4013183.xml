@@ -84,7 +84,7 @@
 
 producer.portal_redirect = "?id=movie_ticket&table=x_1509691_movie_0_theater&sys_id=" + current.sys_id;
 ]]></script>
-        <short_description>Add new theater</short_description>
+        <short_description>Add's new theater</short_description>
         <show_variable_help_on_load>false</show_variable_help_on_load>
         <start_closed>false</start_closed>
         <state>published</state>
@@ -92,14 +92,14 @@ producer.portal_redirect = "?id=movie_ticket&table=x_1509691_movie_0_theater&sys
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-08-31 07:43:34</sys_created_on>
         <sys_id>b401a86ac3d81a10fbf6b8e1b4013183</sys_id>
-        <sys_mod_count>21</sys_mod_count>
+        <sys_mod_count>23</sys_mod_count>
         <sys_name>Add theater</sys_name>
         <sys_package display_value="Movie Ticket Reservation App" source="x_1509691_movie_0">5a9e8f52c3d89610fbf6b8e1b401316e</sys_package>
         <sys_policy/>
         <sys_scope display_value="Movie Ticket Reservation App">5a9e8f52c3d89610fbf6b8e1b401316e</sys_scope>
         <sys_update_name>sc_cat_item_producer_b401a86ac3d81a10fbf6b8e1b4013183</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-09-07 15:19:41</sys_updated_on>
+        <sys_updated_on>2024-09-09 04:23:03</sys_updated_on>
         <table_name>x_1509691_movie_0_theater</table_name>
         <taxonomy_topic/>
         <template/>
@@ -107,7 +107,7 @@ producer.portal_redirect = "?id=movie_ticket&table=x_1509691_movie_0_theater&sys
         <type>item</type>
         <use_sc_layout>true</use_sc_layout>
         <vendor/>
-        <version>23</version>
+        <version>25</version>
         <view/>
         <visible_bundle>true</visible_bundle>
         <visible_guide>true</visible_guide>

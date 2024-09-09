@@ -13,7 +13,7 @@
         <delivery_plan display_value="DEFAULT">523da512c611228900811a37c97c2014</delivery_plan>
         <delivery_plan_script/>
         <delivery_time>1970-01-03 00:00:00</delivery_time>
-        <description><![CDATA[<p>This Record Producers reserves movie tickets</p>]]></description>
+        <description/>
         <display_price_property>non_zero</display_price_property>
         <entitlement_script/>
         <flow_designer_flow/>
@@ -84,7 +84,7 @@
 
 producer.portal_redirect = "?id=movie_ticket&table=x_1509691_movie_0_booking&sys_id=" + current.sys_id;
 ]]></script>
-        <short_description>Reserve movie tickets</short_description>
+        <short_description>Reserve movie ticket</short_description>
         <show_variable_help_on_load>false</show_variable_help_on_load>
         <start_closed>false</start_closed>
         <state/>
@@ -92,14 +92,14 @@ producer.portal_redirect = "?id=movie_ticket&table=x_1509691_movie_0_booking&sys
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-08-31 06:40:49</sys_created_on>
         <sys_id>65a29ceac3941a10fbf6b8e1b4013199</sys_id>
-        <sys_mod_count>323</sys_mod_count>
+        <sys_mod_count>325</sys_mod_count>
         <sys_name>Reserve Ticket</sys_name>
         <sys_package display_value="Movie Ticket Reservation App" source="x_1509691_movie_0">5a9e8f52c3d89610fbf6b8e1b401316e</sys_package>
         <sys_policy/>
         <sys_scope display_value="Movie Ticket Reservation App">5a9e8f52c3d89610fbf6b8e1b401316e</sys_scope>
         <sys_update_name>sc_cat_item_producer_65a29ceac3941a10fbf6b8e1b4013199</sys_update_name>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2024-09-07 16:36:51</sys_updated_on>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-09 04:16:42</sys_updated_on>
         <table_name>x_1509691_movie_0_booking</table_name>
         <taxonomy_topic/>
         <template/>
@@ -107,7 +107,7 @@ producer.portal_redirect = "?id=movie_ticket&table=x_1509691_movie_0_booking&sys
         <type>item</type>
         <use_sc_layout>true</use_sc_layout>
         <vendor/>
-        <version>326</version>
+        <version>328</version>
         <view/>
         <visible_bundle>true</visible_bundle>
         <visible_guide>true</visible_guide>
