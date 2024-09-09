@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="5810817bc3509690fbf6b8e1b4013138" label="Seat Type" max_length="40" name="x_1509691_movie_0_seat_type" type="collection">
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="name" mandatory="true" max_length="40" name="name" type="string"/>
+    </element>
+</database>

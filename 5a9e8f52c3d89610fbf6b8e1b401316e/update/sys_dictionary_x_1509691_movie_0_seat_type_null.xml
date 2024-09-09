@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="sys_class_name" table="x_1509691_movie_0_seat_type">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="" table="x_1509691_movie_0_seat_type">
         <active>true</active>
         <array>false</array>
         <attributes/>
@@ -8,10 +8,10 @@
         <choice>0</choice>
         <choice_field/>
         <choice_table/>
-        <column_label>Class</column_label>
+        <column_label/>
         <comments/>
         <create_roles/>
-        <default_value>javascript:current.getTableName();</default_value>
+        <default_value/>
         <defaultsort/>
         <delete_roles/>
         <dependent/>
@@ -21,15 +21,15 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>sys_class_name</element>
+        <element/>
         <element_reference>false</element_reference>
         <foreign_database/>
         <formula/>
         <function_definition/>
         <function_field>false</function_field>
-        <internal_type display_value="">sys_class_name</internal_type>
+        <internal_type display_value="Collection">collection</internal_type>
         <mandatory>false</mandatory>
-        <max_length>80</max_length>
+        <max_length>40</max_length>
         <name>x_1509691_movie_0_seat_type</name>
         <next_element/>
         <primary>false</primary>
@@ -46,14 +46,14 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-08-31 01:51:10</sys_created_on>
-        <sys_name>Class</sys_name>
+        <sys_created_on>2024-09-04 07:11:39</sys_created_on>
+        <sys_name>x_1509691_movie_0_seat_type</sys_name>
         <sys_package display_value="Movie Ticket Reservation App" source="x_1509691_movie_0">5a9e8f52c3d89610fbf6b8e1b401316e</sys_package>
         <sys_policy/>
         <sys_scope display_value="Movie Ticket Reservation App">5a9e8f52c3d89610fbf6b8e1b401316e</sys_scope>
-        <sys_update_name>sys_dictionary_x_1509691_movie_0_seat_type_sys_class_name</sys_update_name>
+        <sys_update_name>sys_dictionary_x_1509691_movie_0_seat_type_null</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-08-31 01:51:10</sys_updated_on>
+        <sys_updated_on>2024-09-04 07:11:39</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -61,7 +61,7 @@
         <use_dynamic_default>false</use_dynamic_default>
         <use_reference_qualifier>simple</use_reference_qualifier>
         <virtual>false</virtual>
-        <virtual_type/>
+        <virtual_type>script</virtual_type>
         <widget/>
         <write_roles/>
         <xml_view>false</xml_view>
